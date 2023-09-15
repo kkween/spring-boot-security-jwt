@@ -1,5 +1,4 @@
 # spring-boot-security-jwt
-
 Spring Boot 2.7.14 Security with JWT Implementation
 
 This project demonstrates the implementation of security using Spring Boot 2.7.14 and JSON Web Tokens (JWT). It includes the following features:
@@ -28,7 +27,7 @@ JDK 17+
 Maven 
 To build and run the project, follow these steps:
 
-Clone the repository: git clone https://github.com/ali-bouali/spring-boot-3-jwt-security.git
+Clone the repository: git clone https://git@github.com:kkween/spring-boot-security-jwt.git
 Navigate to the project directory: cd spring-boot-security-jwt
 Add database "jwt_security" to mysql
 Build the project: mvn clean install
