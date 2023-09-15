@@ -27,7 +27,7 @@ JDK 17+
 Maven 
 To build and run the project, follow these steps:
 
-Clone the repository: git clone https://git@github.com:kkween/spring-boot-security-jwt.git
+Clone the repository: git clone https://github.com:kkween/spring-boot-security-jwt.git
 Navigate to the project directory: cd spring-boot-security-jwt
 Add database "jwt_security" to mysql
 Build the project: mvn clean install
